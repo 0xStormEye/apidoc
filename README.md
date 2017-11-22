@@ -1,5 +1,14 @@
 # apiDoc
 
+[![Build Status](https://travis-ci.org/0xStormEye/apidoc.svg?branch=master)](https://travis-ci.org/0xStormEye/apidoc)
+[![Dependency Status](https://david-dm.org/0xStormEye/apidoc.svg)](https://david-dm.org/0xStormEye/apidoc)
+
+Fork of original repo [apidoc/apidoc](https://github.com/apidoc/apidoc)
+
+---
+
+## Original README
+
 Generates a RESTful web API Documentation.
 
 [![Build Status](https://travis-ci.org/apidoc/apidoc.svg?branch=master)](https://travis-ci.org/apidoc/apidoc)
